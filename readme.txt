@@ -1,4 +1,4 @@
-=== WordPress Reset ===
+=== WordPress Clean Broken Attachments ===
 Contributors: Mirco Babini
 Donate Link: http://github.com/mirkolofio
 Tags: wordpress-remove-images, wordpress, remove images, thumbnails, admin, thumbnail
